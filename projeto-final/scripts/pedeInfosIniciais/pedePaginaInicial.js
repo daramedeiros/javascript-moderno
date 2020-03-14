@@ -19,4 +19,4 @@ if (aceitouSalvar === true)
         $inputEndereco.value = pagina;
         setPaginaInicial(pagina);
     }
-}
+};
